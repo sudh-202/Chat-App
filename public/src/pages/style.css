@@ -1,0 +1,7 @@
+body{
+    background-image: url("../assets/background.jpg");
+    text-transform: capitalize;
+    box-shadow: 2px;
+    color:#37ee7ddd;
+    background-color: #fff;
+}
