@@ -1,8 +1,3 @@
-# Steps to Start the App
+# MERN Stack Apps  || Chat App !!
 
-## Install the Public Dependencies
-## Install the Server Dependencies
-## In the Server Directory there's a .env file. Change the value of mongodb inside the file. Set the value as your mongodb connection url.
-## Now start the server by yarn start
-## Now start the react by yarn start
-## And the chat application would be running successfully by now.
+![Screenshot 2023-01-25 170906](https://user-images.githubusercontent.com/87563365/214632401-a8098753-b835-4f2b-a38f-4903a9893991.jpg)
